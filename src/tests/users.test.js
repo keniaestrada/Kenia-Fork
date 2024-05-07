@@ -23,5 +23,5 @@ describe ('getUser', () => {
 
 });
 
-
+console.log(getUser(2))
 

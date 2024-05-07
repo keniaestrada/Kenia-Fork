@@ -26,3 +26,4 @@ describe('validarADN', () => {
         expect(validarADN('')).toBe(false);
     });
 });
+console.log(validarADN(`cta`))
